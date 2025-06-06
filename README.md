@@ -53,6 +53,7 @@ git clone https://github.com/seu-usuario/nome-do-repo.git
 🔪 Exemplo
 
 Digite: 01001000
+
 Você verá os dados de endereço da Praça da Sé, São Paulo/SP.
 
 📷 Imagem de fundo
