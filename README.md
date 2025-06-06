@@ -63,8 +63,6 @@ O projeto utiliza uma imagem de fundo (7841ca34582457.56d60ee2cf0f8.jpg). Certif
 
 A Licença do MIT (MIT)
 
-Direitos autorais (c) 2017-2019 Richard Littauer
-
 É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
 no Software sem restrições, incluindo, sem limitação, os direitos
