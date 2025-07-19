@@ -44,7 +44,7 @@ Busca automática de informações como:
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/YlkersonDias/CEP-COM-API.git
 
 2. Abra o arquivo index.html em seu navegador.
 
